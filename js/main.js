@@ -1,5 +1,5 @@
-/* Revival Fire Ministry — motion & the living ember field.
-   Signature element: canvas embers rising through the Kalahari night,
+/* His Presence Fire Ministries — motion & the living ember field.
+   Signature element: canvas embers rising like sparks from the altar,
    with a GSAP-orchestrated hero and scroll-triggered reveals. */
 
 (() => {
